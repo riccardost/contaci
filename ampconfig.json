@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.12.1",
+  "appInfo": {
+    "name": "Sample app",
+    "description": "Sample application for e-commerce",
+    "version": "4pstivjb",
+    "id": "cl118g892112192001s6qhkt5hwl",
+    "url": "https://app.amplication.com/cl118g892112192001s6qhkt5hwl",
+    "settings": {
+      "dbHost": "ec2-52-211-158-144.eu-west-1.compute.amazonaws.com",
+      "dbName": "d31sl4qme3tb4",
+      "dbPassword": "39a7e5fda8de9b770e3571121be2f0f30905b6a99bde21e76f48d13faf3ce207",
+      "dbPort": 5432,
+      "dbUser": "aoinfkulstrvks",
+      "appId": "cl118g892112192001s6qhkt5hwl",
+      "authProvider": "Jwt"
+    }
+  }
+}
